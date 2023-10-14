@@ -4,7 +4,7 @@ import netflixImg from '../../public/assets/projects/netflix.jpg';
 import { RiRadioButtonFill } from 'react-icons/ri';
 import Link from 'next/link';
 
-const netflix = () => {
+const Netflix = () => {
   return (
     <div className='w-full' >
       <div style={{overflow:'hidden'}} className='w-screen h-[50vh] relative'>
@@ -80,4 +80,4 @@ const netflix = () => {
   );
 };
 
-export default netflix;
+export default Netflix;

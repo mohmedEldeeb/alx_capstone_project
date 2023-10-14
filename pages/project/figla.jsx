@@ -4,11 +4,12 @@ import netflixImg from '../../public/figla.png';
 import { RiRadioButtonFill } from 'react-icons/ri';
 import Link from 'next/link';
 
-const netflix = () => {
+const Filgla = () => {
     const [ fullImeag , setFullImage ] =useState(false)
+
     const innerImg =()=>{
         setFullImage(!fullImeag)
-        console.log(fullImeag)    
+        // console.log(fullImeag)    
     }
   return (
     <div className='w-full' >
@@ -88,4 +89,4 @@ const netflix = () => {
   );
 };
 
-export default netflix;
+export default Filgla;
