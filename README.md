@@ -21,6 +21,12 @@ This is a Personal Portfolio Website that showcases your work, skills, and provi
 - Provide information about yourself.
 - Contact section for potential employers or collaborators.
 
+## Usage 
+- nextjs
+- react-icons
+- react-typed
+- tailwindcss
+
 ## Prerequisites
 - Basic knowledge of HTML, CSS, and JavaScript.
 - A code editor for customization.
@@ -35,3 +41,4 @@ This is a Personal Portfolio Website that showcases your work, skills, and provi
 This is a basic template for your README file. Make sure to replace placeholders like `Mohammed Eldeeb` and `EldeebMahammed@gmail.com` with your actual GitHub username and repository name.
 
 You can add more sections, such as a "Technologies Used" section, or include screenshots of your portfolio in the README if you'd like. Make it informative and engaging for visitors who may be interested in your work.
+Linting and checking
